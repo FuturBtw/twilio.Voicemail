@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-  <Say>Veuillez laisser votre message après le bip. Appuyez sur la touche dièse pour terminer.</Say>
-  <Record action="https://futurbtw.app.n8n.cloud/webhook-test/voicemail" method="POST" maxLength="30" finishOnKey="#" />
-  <Say>Merci. Au revoir.</Say>
-</Response>
+
